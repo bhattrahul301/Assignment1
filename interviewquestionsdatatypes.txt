@@ -1,0 +1,29 @@
+*Python Interview Questions on Data Types
+Question1):What are Data Types?
+Question2): Name four of the main data types in Python
+Question3):What does immutable mean and what three types of Python core data types are considered immutable?
+Question4):What does sequence mean and which three types of data fall into this category?
+
+*Python Interview Questions on Operators
+Question1): What are Logical Operators? How does they work?
+Question2):What are Operators?
+Question3): What are Python Membership Operators?
+
+*Python Interview Questions on Operators
+Question 1):What are the three main conditional statements in Python?
+Question 2):What constitutes “True” in Python?
+Question 3):What does elif mean?
+Question 4): How are if, elif, and else blocks defined?
+
+*Python Interview Questions on Looping Statements
+Question1): What keyword is used for looping?
+Question2): What function can generate a list of numbers?
+Question3): Name the 2 keywords used for looping?
+Question4): What keyword is used to skip back to the beginning of a loop?
+
+*Python Interview Questions on Functions
+Question1):What is a function in Python?
+Question2):Syntax of Function
+Question3):How to call a function in python?
+Question4):What does the return statement do?
+
