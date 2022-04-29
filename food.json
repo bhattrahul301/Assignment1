@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Rajmah Rice",
+        "price": 60.0,
+        "no_of_plates": 10
+    },
+    {
+        "id": 2,
+        "name": "curry chawal",
+        "price": 100.0,
+        "no_of_plates": 9
+    },
+    {
+        "id": 3,
+        "name": "Sarso Da Saag",
+        "price": 120.0,
+        "no_of_plates": 20
+    }
+]
